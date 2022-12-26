@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:language-id:16.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Reskin/SimpleLoginAndRegistrationApp/caches/transforms-2/files-2.1/df1cbc776d456bbb2ab043d2322f6aad/jetified-language-id-16.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/Reskin/SimpleLoginAndRegistrationApp/caches/transforms-2/files-2.1/df1cbc776d456bbb2ab043d2322f6aad/jetified-language-id-16.1.0/res" />
+      <root url="file://$USER_HOME$/Desktop/Reskin/SimpleLoginAndRegistrationApp/caches/transforms-2/files-2.1/df1cbc776d456bbb2ab043d2322f6aad/jetified-language-id-16.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/Reskin/SimpleLoginAndRegistrationApp/caches/modules-2/files-2.1/com.google.mlkit/language-id/16.1.0/63671cca5094fcbf82048c3e52365f92fdab701c/language-id-16.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

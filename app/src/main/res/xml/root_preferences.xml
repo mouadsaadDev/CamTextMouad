@@ -1,0 +1,32 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@style/SettingsFragmentStyle" >
+
+
+    <PreferenceCategory app:title="@string/general_header">
+
+        <SwitchPreferenceCompat
+            app:key="volume_down_capture"
+            app:title="@string/volume_down_title"
+            app:summary="@string/volume_down_title"
+            app:defaultValue="true"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/history_header">
+
+        <SwitchPreferenceCompat
+            app:key="history"
+            app:title="@string/history_title"
+            app:summary="@string/history_title"
+            app:defaultValue="true"/>
+
+        <SwitchPreferenceCompat
+            app:key="image_history"
+            app:title="@string/image_history_title"
+            app:summary="@string/image_history_title"
+            app:defaultValue="true"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

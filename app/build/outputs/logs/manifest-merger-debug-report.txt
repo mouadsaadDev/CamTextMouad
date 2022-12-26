@@ -1,0 +1,486 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:2:1-58:12
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\38499a84276005c7479eb32ac184c31e\preference-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f0829a1be779d717696718868b201424\navigation-ui-ktx-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\4d579f62a9c18b6b3456dad7e2db1997\navigation-ui-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02001b22c90536e8d31ebe7bd6f82ded\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-view:1.0.0-alpha10] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\27f32d52008a8a1db1f5e5481b46c8bc\jetified-camera-view-1.0.0-alpha10\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e01951a302939b0e3208a526dd0c478b\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\8ff500de20042315f2c9c4c7dd128363\jetified-core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e1de8bcd4443eda3089b74b59199124c\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\534515169eb65deca3a206c9a1666c77\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\c83775ed8e3a028ece84f7c2de164116\navigation-fragment-ktx-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b87925892671fcf85326b2dd1964d013\leanback-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\1fdf14fcf4abd93c33dd5ef73df5f4d2\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\6c94281008572af038de7c2092453265\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\64815294d7092bfddd565be68929950a\jetified-play-services-mlkit-text-recognition-16.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.camera:camera-camera2:1.0.0-beta03] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\7dc44a4c4c0762f3b186d7f97f434559\jetified-camera-camera2-1.0.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta03] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\bb61e6c2c9c100c2765c92b7236c26c5\jetified-camera-lifecycle-1.0.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.mlkit:language-id:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\df1cbc776d456bbb2ab043d2322f6aad\jetified-language-id-16.1.0\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\4367fd114c66f88b84e7f3ad7216413c\navigation-runtime-ktx-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3eae545f7cf0b0a773eb5dfe22915ea7\jetified-fragment-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b96ed7c763af5d4ba6a73b26b098026f\jetified-activity-ktx-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f75bedafbfdecbcffc2f5fd620542d95\jetified-lifecycle-viewmodel-ktx-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\d8cd629c408e0d692e0fa7ca1cb7ef7a\navigation-common-ktx-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\d6f0e84d28d25666121c3ed1528e8279\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\39865a5ff806ae586f271268eae728a8\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\57abc7c2a17d3d1159fbcc80c131c7ea\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\ad3f2ace7803e406ed3910cea66ae48b\navigation-fragment-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f3d779213c21cc1c1c63a92d46cca8cc\jetified-play-services-vision-20.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\734ec2e8a6b0bcbed2f9b3b449559a3a\jetified-play-services-vision-common-19.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\80b0919fb44befb405d15c1cbc52ce1a\jetified-vision-common-16.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\53a8f7ca1829c0ebc76e3062c3478be1\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\447d51163382ceba8a1ac11f5ebad0e1\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\bf0ea12d798f3a9bbc4510fda6162fb0\jetified-play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02cb134a98438f87a3719e7ff42c6ff2\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\693613fbb7fa4296374e8aea243056d9\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b8acf7306915547f1e5f014bb639e606\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a41195064dd572e6ada3171a9cd585c9\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.0.0-beta03] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\ebebd9f8376b80d5965e02524bd7b24a\jetified-camera-core-1.0.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\8b95fa0cdb3e0c00b8d55b4ab67bd758\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\33197f72b99041382c94e67757a2a3f5\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\01829b5e7a0272c14bff08dbe4b9a3fc\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\7b27f78d7de296a5ec4160feb2c69e57\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\82e82095e91f29cb9db46d08a7f0cd20\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\c4110399d4e8b1a8db7b7d54e34904fd\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e490dca46b1c93ba76d609423f30f48d\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\fb07e5a7ffde07dba058089f407765b7\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b9ebcf97ee46373decf6b9379867dc6e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\9dedde19efffe9f87b80ad5fd5b7051b\navigation-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3d783ccd98b14b16b24e673f126eb59c\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\7ca5bd28f8f1d2a5eafe5eeefffb0970\transition-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\91dab3cdc3a3ffb1ea9dc9f9d8163088\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\5aea7ebe254238e5895d2763605dcf05\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\fd8059914b40bf7358b3f1e4392c565f\navigation-common-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\dc19af5998919f46b6c76e2e507e3925\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e8c81727db430d69d89a12b6e2ba8756\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\fb5ff6a95f1da34d5f00bb036b9180cf\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\2f0812b4134b97fb1d350cd57f3d9934\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\d45609444890dffa15013bf403c1ab49\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\005240d347c8e92ae7451e4dc06a332c\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\d4bdc81b7b9c925ecaec0abf0ecc2e7a\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\17e6f55cdb64535d744f76d8b20b85f9\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\833081ee246b5d5207dc15a482e5d055\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3127daef7d91146ae966178fdcb68c4d\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\1e2770442ef902ef7947e7d764feff05\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\611c32aa3beed120bce4179582fd0d20\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\db4395c426f59d71a820b6e50bfb9cf7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\c5f051ace54a008608e2174e5ceae94c\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a31fab6376b966a497a89e23cc14928a\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\dbdd5d745cdb29080381d2ed35b9e2b2\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\698d7850c9424fab4f40bafb306c472b\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0-rc01] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f8062fd02118a9ef79c3abc2eaa0117b\jetified-annotation-experimental-1.0.0-rc01\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera.any
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:5:19-61
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:8:22-78
+meta-data#com.google.mlkit.vision.DEPENDENCIES
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:10:5-12:31
+	android:value
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:12:9-28
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:11:9-60
+application
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:16:5-56:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02001b22c90536e8d31ebe7bd6f82ded\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02001b22c90536e8d31ebe7bd6f82ded\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e1de8bcd4443eda3089b74b59199124c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e1de8bcd4443eda3089b74b59199124c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\64815294d7092bfddd565be68929950a\jetified-play-services-mlkit-text-recognition-16.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\64815294d7092bfddd565be68929950a\jetified-play-services-mlkit-text-recognition-16.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:language-id:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\df1cbc776d456bbb2ab043d2322f6aad\jetified-language-id-16.1.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.mlkit:language-id:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\df1cbc776d456bbb2ab043d2322f6aad\jetified-language-id-16.1.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f3d779213c21cc1c1c63a92d46cca8cc\jetified-play-services-vision-20.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f3d779213c21cc1c1c63a92d46cca8cc\jetified-play-services-vision-20.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\734ec2e8a6b0bcbed2f9b3b449559a3a\jetified-play-services-vision-common-19.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\734ec2e8a6b0bcbed2f9b3b449559a3a\jetified-play-services-vision-common-19.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\80b0919fb44befb405d15c1cbc52ce1a\jetified-vision-common-16.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\80b0919fb44befb405d15c1cbc52ce1a\jetified-vision-common-16.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\53a8f7ca1829c0ebc76e3062c3478be1\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\53a8f7ca1829c0ebc76e3062c3478be1\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\447d51163382ceba8a1ac11f5ebad0e1\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\447d51163382ceba8a1ac11f5ebad0e1\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02cb134a98438f87a3719e7ff42c6ff2\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02cb134a98438f87a3719e7ff42c6ff2\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\693613fbb7fa4296374e8aea243056d9\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\693613fbb7fa4296374e8aea243056d9\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b8acf7306915547f1e5f014bb639e606\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b8acf7306915547f1e5f014bb639e606\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\dc19af5998919f46b6c76e2e507e3925\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\dc19af5998919f46b6c76e2e507e3925\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\611c32aa3beed120bce4179582fd0d20\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\611c32aa3beed120bce4179582fd0d20\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:23:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\dc19af5998919f46b6c76e2e507e3925\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.trodix.camtext.AboutActivity
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:24:9-26:45
+	android:label
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:26:13-42
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:25:13-60
+activity#com.trodix.camtext.SettingsActivity
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:27:9-29:63
+	android:label
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:29:13-60
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:28:13-63
+activity#com.trodix.camtext.HistoryActivity
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:30:9-32:56
+	android:label
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:32:13-53
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:31:13-62
+activity#com.trodix.camtext.ResultActivity
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:33:9-47:20
+	android:label
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:36:13-52
+	android:windowSoftInputMode
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:38:13-67
+	android:configChanges
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:34:13-61
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:40:13-46:29
+action#android.intent.action.SEND
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:43:27-73
+data
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:45:17-52
+	android:mimeType
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:45:23-49
+activity#com.trodix.camtext.MainActivity
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:48:9-54:20
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:48:19-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml:52:27-74
+uses-sdk
+INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\38499a84276005c7479eb32ac184c31e\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\38499a84276005c7479eb32ac184c31e\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f0829a1be779d717696718868b201424\navigation-ui-ktx-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f0829a1be779d717696718868b201424\navigation-ui-ktx-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\4d579f62a9c18b6b3456dad7e2db1997\navigation-ui-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\4d579f62a9c18b6b3456dad7e2db1997\navigation-ui-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02001b22c90536e8d31ebe7bd6f82ded\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02001b22c90536e8d31ebe7bd6f82ded\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.0.0-alpha10] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\27f32d52008a8a1db1f5e5481b46c8bc\jetified-camera-view-1.0.0-alpha10\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.0.0-alpha10] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\27f32d52008a8a1db1f5e5481b46c8bc\jetified-camera-view-1.0.0-alpha10\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e01951a302939b0e3208a526dd0c478b\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e01951a302939b0e3208a526dd0c478b\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\8ff500de20042315f2c9c4c7dd128363\jetified-core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\8ff500de20042315f2c9c4c7dd128363\jetified-core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e1de8bcd4443eda3089b74b59199124c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e1de8bcd4443eda3089b74b59199124c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\534515169eb65deca3a206c9a1666c77\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\534515169eb65deca3a206c9a1666c77\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\c83775ed8e3a028ece84f7c2de164116\navigation-fragment-ktx-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\c83775ed8e3a028ece84f7c2de164116\navigation-fragment-ktx-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b87925892671fcf85326b2dd1964d013\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b87925892671fcf85326b2dd1964d013\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\1fdf14fcf4abd93c33dd5ef73df5f4d2\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\1fdf14fcf4abd93c33dd5ef73df5f4d2\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\6c94281008572af038de7c2092453265\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\6c94281008572af038de7c2092453265\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\64815294d7092bfddd565be68929950a\jetified-play-services-mlkit-text-recognition-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\64815294d7092bfddd565be68929950a\jetified-play-services-mlkit-text-recognition-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [androidx.camera:camera-camera2:1.0.0-beta03] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\7dc44a4c4c0762f3b186d7f97f434559\jetified-camera-camera2-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-beta03] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\7dc44a4c4c0762f3b186d7f97f434559\jetified-camera-camera2-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta03] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\bb61e6c2c9c100c2765c92b7236c26c5\jetified-camera-lifecycle-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta03] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\bb61e6c2c9c100c2765c92b7236c26c5\jetified-camera-lifecycle-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.mlkit:language-id:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\df1cbc776d456bbb2ab043d2322f6aad\jetified-language-id-16.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:language-id:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\df1cbc776d456bbb2ab043d2322f6aad\jetified-language-id-16.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\4367fd114c66f88b84e7f3ad7216413c\navigation-runtime-ktx-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\4367fd114c66f88b84e7f3ad7216413c\navigation-runtime-ktx-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3eae545f7cf0b0a773eb5dfe22915ea7\jetified-fragment-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3eae545f7cf0b0a773eb5dfe22915ea7\jetified-fragment-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b96ed7c763af5d4ba6a73b26b098026f\jetified-activity-ktx-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b96ed7c763af5d4ba6a73b26b098026f\jetified-activity-ktx-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f75bedafbfdecbcffc2f5fd620542d95\jetified-lifecycle-viewmodel-ktx-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f75bedafbfdecbcffc2f5fd620542d95\jetified-lifecycle-viewmodel-ktx-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\d8cd629c408e0d692e0fa7ca1cb7ef7a\navigation-common-ktx-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\d8cd629c408e0d692e0fa7ca1cb7ef7a\navigation-common-ktx-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\d6f0e84d28d25666121c3ed1528e8279\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\d6f0e84d28d25666121c3ed1528e8279\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\39865a5ff806ae586f271268eae728a8\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\39865a5ff806ae586f271268eae728a8\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\57abc7c2a17d3d1159fbcc80c131c7ea\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\57abc7c2a17d3d1159fbcc80c131c7ea\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\ad3f2ace7803e406ed3910cea66ae48b\navigation-fragment-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\ad3f2ace7803e406ed3910cea66ae48b\navigation-fragment-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f3d779213c21cc1c1c63a92d46cca8cc\jetified-play-services-vision-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f3d779213c21cc1c1c63a92d46cca8cc\jetified-play-services-vision-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\734ec2e8a6b0bcbed2f9b3b449559a3a\jetified-play-services-vision-common-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\734ec2e8a6b0bcbed2f9b3b449559a3a\jetified-play-services-vision-common-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\80b0919fb44befb405d15c1cbc52ce1a\jetified-vision-common-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\80b0919fb44befb405d15c1cbc52ce1a\jetified-vision-common-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\53a8f7ca1829c0ebc76e3062c3478be1\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\53a8f7ca1829c0ebc76e3062c3478be1\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\447d51163382ceba8a1ac11f5ebad0e1\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\447d51163382ceba8a1ac11f5ebad0e1\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\bf0ea12d798f3a9bbc4510fda6162fb0\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\bf0ea12d798f3a9bbc4510fda6162fb0\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02cb134a98438f87a3719e7ff42c6ff2\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02cb134a98438f87a3719e7ff42c6ff2\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\693613fbb7fa4296374e8aea243056d9\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\693613fbb7fa4296374e8aea243056d9\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b8acf7306915547f1e5f014bb639e606\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b8acf7306915547f1e5f014bb639e606\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a41195064dd572e6ada3171a9cd585c9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a41195064dd572e6ada3171a9cd585c9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-beta03] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\ebebd9f8376b80d5965e02524bd7b24a\jetified-camera-core-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-beta03] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\ebebd9f8376b80d5965e02524bd7b24a\jetified-camera-core-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\8b95fa0cdb3e0c00b8d55b4ab67bd758\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\8b95fa0cdb3e0c00b8d55b4ab67bd758\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\33197f72b99041382c94e67757a2a3f5\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\33197f72b99041382c94e67757a2a3f5\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\01829b5e7a0272c14bff08dbe4b9a3fc\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\01829b5e7a0272c14bff08dbe4b9a3fc\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\7b27f78d7de296a5ec4160feb2c69e57\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\7b27f78d7de296a5ec4160feb2c69e57\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\82e82095e91f29cb9db46d08a7f0cd20\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\82e82095e91f29cb9db46d08a7f0cd20\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\c4110399d4e8b1a8db7b7d54e34904fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\c4110399d4e8b1a8db7b7d54e34904fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e490dca46b1c93ba76d609423f30f48d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e490dca46b1c93ba76d609423f30f48d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\fb07e5a7ffde07dba058089f407765b7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\fb07e5a7ffde07dba058089f407765b7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b9ebcf97ee46373decf6b9379867dc6e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b9ebcf97ee46373decf6b9379867dc6e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\9dedde19efffe9f87b80ad5fd5b7051b\navigation-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\9dedde19efffe9f87b80ad5fd5b7051b\navigation-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3d783ccd98b14b16b24e673f126eb59c\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3d783ccd98b14b16b24e673f126eb59c\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\7ca5bd28f8f1d2a5eafe5eeefffb0970\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\7ca5bd28f8f1d2a5eafe5eeefffb0970\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\91dab3cdc3a3ffb1ea9dc9f9d8163088\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\91dab3cdc3a3ffb1ea9dc9f9d8163088\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\5aea7ebe254238e5895d2763605dcf05\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\5aea7ebe254238e5895d2763605dcf05\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\fd8059914b40bf7358b3f1e4392c565f\navigation-common-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\fd8059914b40bf7358b3f1e4392c565f\navigation-common-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\dc19af5998919f46b6c76e2e507e3925\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\dc19af5998919f46b6c76e2e507e3925\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e8c81727db430d69d89a12b6e2ba8756\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\e8c81727db430d69d89a12b6e2ba8756\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\fb5ff6a95f1da34d5f00bb036b9180cf\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\fb5ff6a95f1da34d5f00bb036b9180cf\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\2f0812b4134b97fb1d350cd57f3d9934\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\2f0812b4134b97fb1d350cd57f3d9934\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\d45609444890dffa15013bf403c1ab49\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\d45609444890dffa15013bf403c1ab49\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\005240d347c8e92ae7451e4dc06a332c\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\005240d347c8e92ae7451e4dc06a332c\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\d4bdc81b7b9c925ecaec0abf0ecc2e7a\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\d4bdc81b7b9c925ecaec0abf0ecc2e7a\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\17e6f55cdb64535d744f76d8b20b85f9\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\17e6f55cdb64535d744f76d8b20b85f9\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\833081ee246b5d5207dc15a482e5d055\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\833081ee246b5d5207dc15a482e5d055\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3127daef7d91146ae966178fdcb68c4d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3127daef7d91146ae966178fdcb68c4d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\1e2770442ef902ef7947e7d764feff05\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\1e2770442ef902ef7947e7d764feff05\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\611c32aa3beed120bce4179582fd0d20\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\611c32aa3beed120bce4179582fd0d20\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\db4395c426f59d71a820b6e50bfb9cf7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\db4395c426f59d71a820b6e50bfb9cf7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\c5f051ace54a008608e2174e5ceae94c\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\c5f051ace54a008608e2174e5ceae94c\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a31fab6376b966a497a89e23cc14928a\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a31fab6376b966a497a89e23cc14928a\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\dbdd5d745cdb29080381d2ed35b9e2b2\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\dbdd5d745cdb29080381d2ed35b9e2b2\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\698d7850c9424fab4f40bafb306c472b\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\698d7850c9424fab4f40bafb306c472b\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0-rc01] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f8062fd02118a9ef79c3abc2eaa0117b\jetified-annotation-experimental-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0-rc01] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\f8062fd02118a9ef79c3abc2eaa0117b\jetified-annotation-experimental-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Documents\camText-master\app\src\main\AndroidManifest.xml
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\64815294d7092bfddd565be68929950a\jetified-play-services-mlkit-text-recognition-16.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:language-id:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\df1cbc776d456bbb2ab043d2322f6aad\jetified-language-id-16.1.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.mlkit:language-id:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\df1cbc776d456bbb2ab043d2322f6aad\jetified-language-id-16.1.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\80b0919fb44befb405d15c1cbc52ce1a\jetified-vision-common-16.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\80b0919fb44befb405d15c1cbc52ce1a\jetified-vision-common-16.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\64815294d7092bfddd565be68929950a\jetified-play-services-mlkit-text-recognition-16.0.0\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\64815294d7092bfddd565be68929950a\jetified-play-services-mlkit-text-recognition-16.0.0\AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\64815294d7092bfddd565be68929950a\jetified-play-services-mlkit-text-recognition-16.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\64815294d7092bfddd565be68929950a\jetified-play-services-mlkit-text-recognition-16.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\64815294d7092bfddd565be68929950a\jetified-play-services-mlkit-text-recognition-16.0.0\AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.nl.languageid.LanguageIdRegistrar
+ADDED from [com.google.mlkit:language-id:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\df1cbc776d456bbb2ab043d2322f6aad\jetified-language-id-16.1.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.mlkit:language-id:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\df1cbc776d456bbb2ab043d2322f6aad\jetified-language-id-16.1.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.mlkit:language-id:16.1.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\df1cbc776d456bbb2ab043d2322f6aad\jetified-language-id-16.1.0\AndroidManifest.xml:12:17-113
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\80b0919fb44befb405d15c1cbc52ce1a\jetified-vision-common-16.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\80b0919fb44befb405d15c1cbc52ce1a\jetified-vision-common-16.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\80b0919fb44befb405d15c1cbc52ce1a\jetified-vision-common-16.0.0\AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:16.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\3374788f6fcecebfac1524040a9ad1e9\jetified-common-16.0.0\AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02cb134a98438f87a3719e7ff42c6ff2\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02cb134a98438f87a3719e7ff42c6ff2\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02cb134a98438f87a3719e7ff42c6ff2\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\02cb134a98438f87a3719e7ff42c6ff2\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b8acf7306915547f1e5f014bb639e606\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b8acf7306915547f1e5f014bb639e606\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\b8acf7306915547f1e5f014bb639e606\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:26:22-64
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\544ddcdc1386e8ba6a5c62ae1a91b554\jetified-transport-backend-cct-2.2.2\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] C:\Users\lenovo\Desktop\Reskin\SimpleLoginAndRegistrationApp\caches\transforms-2\files-2.1\a0c1ba6e9d8e785256fda46ff2a05ac5\jetified-transport-runtime-2.2.2\AndroidManifest.xml:33:13-132
